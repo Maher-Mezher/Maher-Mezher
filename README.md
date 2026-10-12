@@ -6,6 +6,11 @@ I design and build whatever i imagine.
 
 If an idea pops in my head, chances are i'll build it and ship it.
 
-I have experience in software development, system integration.
+My current goal is to build over 100 public repos.
+
+I have experience in software development and system integrations.
+
+My interests are: OOP, Data Structures & Algorithms,APIs, Database
+Optimization, Networking Fundamentals, Cybersecurity Fundamentals
 
 
