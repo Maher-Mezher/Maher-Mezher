@@ -10,6 +10,6 @@ My current goal is to build over 100 public repos.
 
 I have experience in software development and system integrations.
 
-My interests are: OOP, Data Structures & Algorithms, APIs, Database, Networking, Cybersecurity.
+My interests are: Software Development, Databases, Networking, Cybersecurity.
 
 
